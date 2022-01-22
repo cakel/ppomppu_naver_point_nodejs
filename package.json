@@ -1,0 +1,19 @@
+{
+    "name": "naver_ppomppu-point",
+    "main": "naver_point.js",
+    "author": "cakel <cakel@hanmail.net>",
+    "license": "MIT",
+    "type": "module",
+    "scripts": {
+        "start": "node naver_point.js"
+    },
+    "dependencies": {
+        "iconv": "^3.0.1",
+        "jschardet": "^3.0.0",
+        "jsdom": "^19.0.0",
+        "node-fetch": "^3.2.0",
+        "random-useragent": "^0.5.0",
+        "request": "^2.88.2",
+        "request-promise": "^4.2.6"
+    }
+}
